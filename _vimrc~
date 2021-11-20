@@ -33,7 +33,7 @@ augroup END
 set guifont=consolas:h18
 
 "Setting default colorscheme
-colorscheme darkblue
+colorscheme ron
 
 set diffexpr=MyDiff()
 function MyDiff()
